@@ -1,0 +1,1 @@
+{"name":"ec-cube\/newarrival42","version":"1.0.0","description":"\u65b0\u7740\u4e00\u89a7\u53d6\u5f97\u30d7\u30e9\u30b0\u30a4\u30f3","type":"eccube-plugin","require":{"ec-cube\/plugin-installer":"~0.0.7 || ^2.0"},"extra":{"code":"NewArrival42","id":1}}
